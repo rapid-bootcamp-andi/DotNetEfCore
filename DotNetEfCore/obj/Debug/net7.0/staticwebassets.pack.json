@@ -1,0 +1,589 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DotNetEfCore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DotNetEfCore.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\sticky-footer-navbar.css",
+      "PackagePath": "staticwebassets\\css\\sticky-footer-navbar.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\stylee.css",
+      "PackagePath": "staticwebassets\\css\\stylee.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\styleee.css",
+      "PackagePath": "staticwebassets\\css\\styleee.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\css\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\images\\image-placeholder.svg",
+      "PackagePath": "staticwebassets\\images\\image-placeholder.svg"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\images\\logo2.png"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\js\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\js\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\js\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\js\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\js\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\js\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Rapid\\Codes\\DotNetEfCore\\DotNetEfCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DotNetEfCore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DotNetEfCore.props",
+      "PackagePath": "build\\DotNetEfCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DotNetEfCore.props",
+      "PackagePath": "buildMultiTargeting\\DotNetEfCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DotNetEfCore.props",
+      "PackagePath": "buildTransitive\\DotNetEfCore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
